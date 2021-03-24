@@ -330,7 +330,7 @@ Your final act is to deface the website using command injection. Follow the walk
    
    - The absolute path is: `./owaspbwa/owaspbwa-svn/var/lib/tomcat6/webapps/WebGoat/webgoat_challenge_guest.jsp`.
    
-   ![absolute path](CyberSecurity-HW15-Web-Vulnerabilities-andHardening/Images/webscarab_abolute_path.png)
+   ![absolute path](/CyberSecurity-HW15-Web-Vulnerabilities-andHardening/Images/webscarab_abolute_path.png)
    
    - Remember, our present working directory is `/var/lib/tomcat6`. Therefore, the relative path is `webapps/WebGoat/webgoat_challenge_guest.jsp`.
    
