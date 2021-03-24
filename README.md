@@ -306,15 +306,15 @@ Your final act is to deface the website using command injection. Follow the walk
    
    - Click **Accept Changes**.
    
-     ![whoami](Images/whoami_pwd_image.png)
+     ![whoami](CyberSecurity-HW15-Web-Vulnerabilities-and-Hardening/Images/whoami_pwd_image.png)
    
    - On the next window, click **Accept Changes** twice.
    
-     ![accept](Images/webscarab_2nd_window.png)
+     ![accept](CyberSecurity-HW15-Web-Vulnerabilities-and-Hardening/Images/webscarab_2nd_window.png)
  
 - Scroll to the bottom of the **Current Network Status** window and observe the results for both of the `whoami` and `pwd` commands.
 
-    ![whoami & pwd](Images/whoami_pwd.png)
+    ![whoami & pwd](CyberSecurity-HW15-Web-Vulnerabilities-and-Hardening/Images/whoami_pwd.png)
 
    - The results show that we are the root user and our current working directory is `/var/lib/tomcat6`.
 
